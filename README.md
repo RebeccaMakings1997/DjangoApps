@@ -1,0 +1,2 @@
+# DjangoApps
+Repository for django
